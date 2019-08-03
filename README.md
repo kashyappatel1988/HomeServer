@@ -1,5 +1,5 @@
 # HomeServer
-Script for Dellr710 
+This script is to start/shutdown dell r710 server via idrac interface 
 
 ## Funtion 
 start/stop script of r710 via idrac 
